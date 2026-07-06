@@ -22,4 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
