@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/0100-same-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/0100-same-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/0509-fibonacci-number) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
