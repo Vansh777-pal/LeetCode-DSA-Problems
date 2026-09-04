@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3903-smallest-stable-index-i](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
