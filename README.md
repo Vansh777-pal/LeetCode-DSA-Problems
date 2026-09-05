@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Vansh777-pal/LeetCode-DSA-Problems/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
